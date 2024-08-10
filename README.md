@@ -1,0 +1,2 @@
+# Bookbot
+Analyse a book.
