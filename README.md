@@ -1,2 +1,1 @@
-# Bookbot
-Analyse a book.
+BookBot is my first project!
